@@ -1,0 +1,12 @@
+Package: foxxy-plymouth
+Version: 1.9
+Architecture: all
+Maintainer: Lorenzo EclipseSpark Faletra <eclipse@frozenbox.org>
+Installed-Size: 996
+Depends: plymouth
+Recomended: v86d, plymouth-drm, plymouth-themes
+Replaces: plymouth
+Section: foxxy
+Priority: optional
+Description: Foxxy Plymouth Themes
+ Foxxy Plymouth booting animation themes

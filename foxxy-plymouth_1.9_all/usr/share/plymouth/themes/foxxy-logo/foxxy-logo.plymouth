@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Foxxy Theme
+Description=Foxxy Security OS Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/foxxy-logo
+ScriptFile=/usr/share/plymouth/themes/foxxy-logo/mdv.script
